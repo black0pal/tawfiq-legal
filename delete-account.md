@@ -18,7 +18,7 @@ We respect your right to manage your data. To delete your TAWFIQ account, please
 ### Method 2: Web Request
 If you no longer have the app installed, you can initiate a deletion request by emailing our support team:
 
-- **Email to**: support@tawfiq.app
+- **Email to**: black0pal@yahoo.com
 - **Subject**: Account Deletion Request
 - **Required Info**: Please provide the email address associated with your TAWFIQ account.
 

@@ -13,4 +13,4 @@ Welcome to the official support and legal portal for the TAWFIQ Suite.
 
 ### Contact Support
 If you have any questions or need assistance with your TAWFIQ account, please contact your business administrator or email us at:
-**support@tawfiq.app**
+**black0pal@yahoo.com**
