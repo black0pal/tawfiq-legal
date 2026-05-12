@@ -4,7 +4,7 @@ title: Account Deletion
 permalink: /delete-account/
 ---
 
-# Account Deletion Request - TAWFIQ Suite
+
 
 We respect your right to manage your data. To delete your TAWFIQ account, please follow the instructions below.
 

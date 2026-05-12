@@ -4,7 +4,6 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-# Privacy Policy for TAWFIQ Suite
 **Last Updated: May 11, 2026**
 
 At TAWFIQ, we are committed to protecting your business data and personal information. This Privacy Policy outlines how we collect, use, and safeguard your data within the TAWFIQ Business Management Suite.
