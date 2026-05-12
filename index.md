@@ -1,3 +1,8 @@
+---
+layout: default
+title: TAWFIQ Support
+---
+
 # TAWFIQ Business Management Suite - Support
 
 Welcome to the official support and legal portal for the TAWFIQ Suite.

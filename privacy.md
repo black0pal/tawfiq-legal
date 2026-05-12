@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy Policy
+permalink: /privacy/
+---
+
 # Privacy Policy for TAWFIQ Suite
 **Last Updated: May 11, 2026**
 
@@ -21,7 +27,7 @@ Our infrastructure is protected by advanced firewalls and multi-factor authentic
 
 ### 5. Account Deletion Web Portal
 If you cannot access the app, you may initiate an account deletion request through our secure web portal:
-[https://tawfiq.app/delete-account](https://tawfiq.app/delete-account)
+[https://black0pal.github.io/tawfiq-legal/delete-account](https://black0pal.github.io/tawfiq-legal/delete-account)
 
 ### 6. Data Sovereignty
 Your data is stored in secure cloud regions. You retain full ownership of your data and can request an export or deletion of your records through your system administrator.
